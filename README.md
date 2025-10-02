@@ -16,17 +16,13 @@ I love building scalable cloud solutions, automating workflows, and bringing ide
 ## 🛠️ Tech Stack & Tools  
 
 **Cloud & Infrastructure**  
-☁️ AWS (EC2, S3, VPC, IAM, Lambda, CloudFormation)  
-🐳 Docker | ☸️ Kubernetes | 📦 Terraform  
+☁️ AWS (EC2, S3, VPC, IAM, Lambda, CloudFormation)   
 
 **CI/CD & Automation**  
-🔄 Jenkins | ⚡ GitHub Actions | 🐙 Git | 🐧 Linux Shell  
-
-**Monitoring & Logging**  
-📊 Prometheus | 🔥 Grafana | 📜 ELK Stack  
+  🐙 Git | 🐧 Linux Shell   
 
 **Programming & Scripting**  
-🐍 Python | ☕ Java (basics) | 🖥️ Bash Scripting | 🕸️ HTML/CSS  
+🐍 Python | ☕ Java (basics)  | 🕸️ HTML/CSS  
 
 ---
 
