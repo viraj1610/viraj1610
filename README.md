@@ -35,8 +35,7 @@ I love building scalable cloud solutions, automating workflows, and bringing ide
 ---
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn](www.linkedin.com/in/
-viraj-suryawanshi-
+- 💼 [LinkedIn](www.linkedin.com/in/viraj-suryawanshi-
 )   
 - 📧 Email: virajsuryawanshi1610@gmail.com
 
